@@ -1,0 +1,12 @@
+{
+  "name": "messenger-zalo-redis-debouncer",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "Trailing sliding-window message debouncer with atomic Redis drain and human-agent handover for Messenger & Zalo AI bots.",
+  "main": "index.ts",
+  "dependencies": {
+    "ioredis": "^5.4.1"
+  },
+  "author": "Tran Nhu Y <trannhuy8425@gmail.com> (https://seotrum.com/tran-nhu-y)",
+  "license": "MIT"
+}
